@@ -9,6 +9,9 @@ flake8>=3.9.0,<3.10.0
 mypy==0.812
 isort==5.8.0
 
+# testing requirements
+#pytest>=6.2.3,<6.3.0
+
 # After uploding your package in PyPi use the given below
 #titanic-model==0.0.1
 
